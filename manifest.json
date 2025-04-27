@@ -4,7 +4,7 @@
   "description": "A lightweight module containing DDB imported monsters for the Nolen world.",
   "version": "1.0.0",
   "manifest": "https://raw.githubusercontent.com/Ellathar/nolen_world_monster_pack/main/manifest.json",
-  "download": "https://drive.google.com/uc?export=download&id=1V2_IaRIrHD2L76T1mJheskSyGor31jAz",
+  "download": "https://github.com/Ellathar/nolen_world_monster_pack/releases/download/v1.0.0/nolen_world_monster_pack.zip",
   "url": "https://github.com/Ellathar/nolen_world_monster_pack",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
