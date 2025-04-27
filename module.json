@@ -101,6 +101,13 @@
       "system": "dnd5e",
       "path": "packs/ddb-nolens-world-ddb-vehicles",
       "type": "Item"
+    },
+    {
+      "name": "nolen-mass-edit-presets",
+      "label": "Nolen's Chalice: Mass Edit Presets",
+      "system": "dnd5e",
+      "path": "packs/mass-edit-presets",
+      "type": "Item"
     }
   ]
 }
