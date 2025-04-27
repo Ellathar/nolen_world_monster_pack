@@ -1,35 +1,67 @@
-# Nolen World Monster Pack
+# Nolen's Infinite Chalice
 
-A lightweight Foundry VTT module containing imported DDB monsters, specially curated for the **Nolen World** campaign setting.
-
-## 📦 Module Contents
-- Over 300 fully configured monsters imported via DDB.
-- Organized into compendiums for easy access.
-- Optimized for Foundry VTT version 11+ and system **dnd5e**.
-
-## 🚀 Installation
-
-To install this module:
-
-1. Open Foundry VTT Setup.
-2. Click **"Install Module"**.
-3. Paste the following **Manifest URL** into the Manifest field:
-4. Click **Install** and enjoy!
-
-## ⚙️ Requirements
-- Foundry VTT Version: 11 or later.
-- Game System: [D&D 5e](https://foundryvtt.com/packages/dnd5e).
-
-## 🛠 Notes
-- This module does not add new rules or mechanics.
-- It provides an organized library of monsters for use in any compatible 5e world.
-- Ideal for the **Nolen World** setting, but usable in any campaign!
-
-## 📜 License
-Content is provided for personal and private gaming use.  
-Not for redistribution or resale.
+🍷 Welcome, traveler, to **Nolen's Infinite Chalice** —  
+a boundless repository of creatures, spells, artifacts, and tales collected from every corner of existence.
 
 ---
 
-**Created with dedication by [Ellathar](https://github.com/Ellathar).**  
-*Bringing the Nolen World to life, one monster at a time.* 🐉
+## ✨ What is the Infinite Chalice?
+
+The Infinite Chalice is a curated compendium module for **Foundry VTT** that brings together:
+
+- 🐉 **Monsters** — fully imported and pre-configured.
+- ✨ **Spells** — ready to slot into your adventures.
+- 🛡️ **Magic Items** — legendary treasures from every plane.
+- 📚 **Lore and Journals** — mysterious tales and records.
+- 🎲 **Roll Tables** — for random encounters and rewards.
+- 🧬 **Species and Classes** — to expand character options.
+- 🚢 **Vehicles** — for planar travel and daring voyages.
+
+All seamlessly organized within a clean and mystical structure under **Nolen's Infinite Chalice**.
+
+---
+
+## 📦 Features
+
+- Built for **D&D 5e** (dnd5e system 4.3.9+).
+- Compatible with **Foundry VTT 11+** and **12**.
+- Light footprint: modular design, easy to update or expand.
+- Lore-infused flavor suitable for use in **Sigil**, **Planescape**, or any multiversal setting.
+
+---
+
+## 🚀 Installation
+
+### Via Manifest Link
+
+1. Open Foundry VTT.
+2. Navigate to **Add-on Modules** → **Install Module**.
+3. Paste this Manifest URL:
+4. Click Install. Done!
+
+---
+
+## 🧭 Organization
+
+All compendiums are located under the folder **Nolen's Infinite Chalice** inside the Compendium Packs sidebar.
+
+Each category is clearly labeled for easy navigation.
+
+---
+
+## 🛡️ Credits
+
+Created by [Ellathar](https://github.com/Ellathar).
+
+Special thanks to the **Foundry VTT** community and the multiversal travelers who inspired this archive.
+
+---
+
+## 📜 Licensing
+
+This module is provided for private tabletop use only.  
+All imported materials remain property of their respective creators.
+
+---
+
+_"May your chalice never run dry."_ 🍷✨

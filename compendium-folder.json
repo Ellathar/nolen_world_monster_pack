@@ -1,0 +1,16 @@
+{
+    "folders": [
+      {
+        "name": "Nolen's Infinite Chalice",
+        "sorting": "a",
+        "color": "#4B0082",
+        "icon": "icons/magic/water/glass-cup-pouring-teal.webp",
+        "flags": {
+          "compendium-folders.folder": {
+            "type": "system",
+            "sorting": "a"
+          }
+        }
+      }
+    ]
+}

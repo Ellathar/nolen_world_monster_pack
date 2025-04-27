@@ -1,27 +1,106 @@
 {
   "name": "nolen-world-monster-pack",
-  "title": "Nolen World Monster Pack",
-  "description": "A lightweight module containing DDB imported monsters for the Nolen world.",
-  "version": "1.0.0",
+  "title": "Nolen's Infinite Chalice",
+  "description": "A lightweight and expansive compendium module containing creatures, spells, items, tables, and lore from the Nolen setting.",
+  "version": "1.1.0",
+  "manifest": "https://raw.githubusercontent.com/Ellathar/nolen_world_monster_pack/main/manifest.json",
+  "download": "https://github.com/Ellathar/nolen_world_monster_pack/releases/download/v1.1.0/nolen_world_monster_pack.zip",
+  "url": "https://github.com/Ellathar/nolen_world_monster_pack",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
-  "authors": [
-    {
-      "name": "Ellathar",
-      "email": "",
-      "url": ""
-    }
-  ],
+  "systems": ["dnd5e"],
+  "author": "Ellathar",
   "packs": [
     {
-      "name": "ddb-nolens-world-ddb-monsters",
-      "label": "DDB Monsters",
+      "name": "nolen-chalice-monsters",
+      "label": "Nolen's Chalice: Monsters",
+      "system": "dnd5e",
       "path": "packs/ddb-nolens-world-ddb-monsters",
-      "type": "Actor",
-      "system": "dnd5e"
+      "type": "Actor"
+    },
+    {
+      "name": "nolen-chalice-spells",
+      "label": "Nolen's Chalice: Spells",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-spells",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-summons",
+      "label": "Nolen's Chalice: Summons",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-summons",
+      "type": "Actor"
+    },
+    {
+      "name": "nolen-chalice-adventures",
+      "label": "Nolen's Chalice: Adventures",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-adventures",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "nolen-chalice-backgrounds",
+      "label": "Nolen's Chalice: Backgrounds",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-backgrounds",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-classes",
+      "label": "Nolen's Chalice: Classes",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-classes",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-feats",
+      "label": "Nolen's Chalice: Feats",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-feats",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-items",
+      "label": "Nolen's Chalice: Magic Items",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-items",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-journals",
+      "label": "Nolen's Chalice: Journals",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-journals",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "nolen-chalice-override",
+      "label": "Nolen's Chalice: Overrides",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-override",
+      "type": "Item"
+    },
+    {
+      "name": "nolen-chalice-species",
+      "label": "Nolen's Chalice: Species",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-species",
+      "type": "Actor"
+    },
+    {
+      "name": "nolen-chalice-tables",
+      "label": "Nolen's Chalice: Roll Tables",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-tables",
+      "type": "RollTable"
+    },
+    {
+      "name": "nolen-chalice-vehicles",
+      "label": "Nolen's Chalice: Vehicles",
+      "system": "dnd5e",
+      "path": "packs/ddb-nolens-world-ddb-vehicles",
+      "type": "Item"
     }
-  ],
-  "manifest": "https://raw.githubusercontent.com/Ellathar/nolen_world_monster_pack/main/manifest.json",
-  "download": "https://github.com/Ellathar/nolen_world_monster_pack/releases/download/v1.0.0/nolen-world-monster-pack.zip",
-  "url": "https://github.com/Ellathar/nolen_world_monster_pack"
+  ]
 }
