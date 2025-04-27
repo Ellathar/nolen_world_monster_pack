@@ -1,16 +1,20 @@
 {
-    "folders": [
-      {
-        "name": "Nolen's Infinite Chalice",
-        "sorting": "a",
-        "color": "#4B0082",
-        "icon": "icons/magic/water/glass-cup-pouring-teal.webp",
-        "flags": {
-          "compendium-folders.folder": {
-            "type": "system",
-            "sorting": "a"
-          }
-        }
-      }
+    "name": "nolen-chalice-folder",
+    "label": "Nolen's Infinite Chalice",
+    "sorting": "a",
+    "packs": [
+      "nolen-chalice-adventures",
+      "nolen-chalice-backgrounds",
+      "nolen-chalice-classes",
+      "nolen-chalice-feats",
+      "nolen-chalice-journals",
+      "nolen-chalice-magic-items",
+      "nolen-chalice-monsters",
+      "nolen-chalice-overrides",
+      "nolen-chalice-roll-tables",
+      "nolen-chalice-species",
+      "nolen-chalice-spells",
+      "nolen-chalice-summons",
+      "nolen-chalice-vehicles"
     ]
-}
+  }
