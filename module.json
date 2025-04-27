@@ -1,0 +1,27 @@
+{
+  "name": "nolen-world-monster-pack",
+  "title": "Nolen World Monster Pack",
+  "description": "A lightweight module containing DDB imported monsters for the Nolen world.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "authors": [
+    {
+      "name": "Ellathar",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "packs": [
+    {
+      "name": "ddb-nolens-world-ddb-monsters",
+      "label": "DDB Monsters",
+      "path": "packs/ddb-nolens-world-ddb-monsters",
+      "type": "Actor",
+      "system": "dnd5e"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Ellathar/nolen_world_monster_pack/main/manifest.json",
+  "download": "https://github.com/Ellathar/nolen_world_monster_pack/releases/download/v1.0.0/nolen-world-monster-pack.zip",
+  "url": "https://github.com/Ellathar/nolen_world_monster_pack"
+}
